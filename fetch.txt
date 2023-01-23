@@ -1,0 +1,1 @@
+I am testing fetch + merge & that is equivalent to pull
