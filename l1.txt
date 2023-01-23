@@ -3,3 +3,4 @@ testing merge
 Second random data
 Final data
 br: data1
+br: data2
